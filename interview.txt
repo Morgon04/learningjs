@@ -1,0 +1,13 @@
+1. List down the features of ES6 ?
+    i. Arrow Function
+    ii. Default Params
+    iii. Template Literals
+    iv. Spread Syntax
+    
+2. What is "this" in Javascript
+
+3. What is Map
+    Map is an array function which return array and which the length is same as given
+    i/p array.
+4. What is Strict Mode
+    i. 
