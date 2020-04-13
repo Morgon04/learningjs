@@ -29,6 +29,22 @@ const _findUniqueElementsInSortedArray = arr => {
 
 _findUniqueElementsInSortedArray([1, 1, 2, 3, 3, 3, 4, 5, 5]);
 
+function printOneAndAst(no) {
+    let one = 1;
+    let ast = "*";
+    let oneAndAst = '';
+    if (no === 1) {
+        console.log(one);
+    }
+    for (let i = 2; i <= no; i++) {
+        oneAndAst = `${oneAndAst} ${i % 2 === 0 ? one : ast}`;
+        console.log(oneAndAst);
+    }
+}
+
+printOneAndAst(5)
+
+
 module.exports = {
     fibonacciSeries: _fibonacciSeries,
     findUniqueElementsInSortedArray: _findUniqueElementsInSortedArray
