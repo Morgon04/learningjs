@@ -37,18 +37,18 @@ setTimeout((name) => {
 
 
 // Example Program
-const object = {
-    scores: [10, 15, 17],
-    name: "Advika",
+// const object = {
+//     scores: [10, 15, 17],
+//     name: "Advika",
 
-    printScores: () => {
-        setTimeout((self) => { // Arrow Fn
-            console.log("Arrow Fn", self.name);
-        }, 1000, this);
-        setTimeout(function (self) { // Regular Fn
-            console.log("Regular Fn", self.name);
-        }, 1000, this);
-    }
-}
+//     printScores: () => {
+//         setTimeout((self) => { // Arrow Fn
+//             console.log("Arrow Fn", self.name);
+//         }, 1000, this);
+//         setTimeout(function (self) { // Regular Fn
+//             console.log("Regular Fn", self.name);
+//         }, 1000, this);
+//     }
+// }
 
-object.printScores();
+// object.printScores();
