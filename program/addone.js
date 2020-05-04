@@ -1,4 +1,4 @@
-let array = [6, 6, 7];
+let array = [9, 9, 9];
 
 function addOne(array) {
     let i = array.length - 1;

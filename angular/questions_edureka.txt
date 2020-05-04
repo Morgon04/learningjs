@@ -1,0 +1,7 @@
+1. What is Angular 
+    
+    Angular is FE Framework, FE is all about the parts of website that the user sees,
+    developing a button (css). Angular is helps you in that way.
+
+    Angular is a Js based FE Maintained by google 
+
