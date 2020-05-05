@@ -67,8 +67,8 @@ const assignMerge = Object.assign(obj1, obj2);
 
 // Spread Way
 const merged = { ...obj1, ...obj2 };
-console.log(merged);
 
+ 
 const array1 = ["Choco Chikku"];
 const array2 = ["Sweet lime"];
 
@@ -80,7 +80,6 @@ const newMerge = [...array1, ...array2, "pineapple juice"];
 console.log("New Way", newMerge);
 
 // Shifting
-
 const shifting = [...array2, ...array1];
 console.log("Shifting", shifting);
 
