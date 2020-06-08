@@ -34,7 +34,9 @@ const userProductDetails = (success, error) => {
     setTimeout(() => {
         fetchProduct ? success({ name: "Headet" }) : error("No Product Found");
     }, 2000);
-}
+};
+
+
 
 /**
  * Call back Hell or pyramid of doom

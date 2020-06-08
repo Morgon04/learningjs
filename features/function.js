@@ -100,4 +100,15 @@ increaseCounter(); // 12 + 1 = 13
 console.log("Counter Value", counter);
 
 
+const name = "Jackie Chan";
+function printName(name) { // -> Params
+    console.log("Hello", name);
+}
 
+printName(name); // -> Argument
+
+const add = function addition(a, b) {
+    return a + b; //
+};
+
+const sumofTwoNumbers = add(10, 20); // 30

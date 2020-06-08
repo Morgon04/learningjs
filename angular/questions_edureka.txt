@@ -5,3 +5,108 @@
 
     Angular is a Js based FE Maintained by google 
 
+2. Difference Btw Angular Js and Angular
+
+3. Various features of angular ?
+
+4. What is a service ?
+
+5. Advantages of using Angular ?
+
+6. Disadvantages of angular
+
+8. What is new in Angular 8 or 9
+
+9. What is String Interpolation ?
+
+10. Explain Authentication and Authorization
+
+11. What is templates in Angular
+
+12. What is the difference Annotation and Decorator
+
+13. What is Directive in Angular
+
+    These are the Document Object Model (DOM) instruction sets, 
+    which decide how logic implementation can be done.
+
+14. Types of Directives in Angular
+
+    1. Component Directive
+    
+    2. Attributes Directive
+    3. Structural Directive
+
+15. What is Data binding and it's different Types
+
+    String Interpolation
+    Property binding
+    Event binding
+    Two-way data binding
+
+16. What are the diff btw angular and JQuery
+
+17. Building Blocks of angular
+    
+    1. Components
+    2. Data binding
+    3. DI
+    4. Directives
+    5. Metadata
+    6. Modules
+    7. Routing
+    8. Services
+    9. templates
+
+18. Difference btw Angular Exp and Js Exp
+
+19. Difference btw service() and factory()
+
+20. What is AOT
+
+21. What is Angular Material
+
+22. Types of filters in Angular
+
+23. What is ngOnInit()?
+
+24. What is SPA? 
+
+25. What is Angular Modules?
+
+26. For what type Components we can create directive ?
+
+27. What are Angular Animations?
+
+28. One way and two way data binding
+
+29. Life Cycle hooks
+
+30. What is View Encapsulation and types
+
+31. DOM Vs BOM
+
+32. What is Template Expression
+
+33. What is Template Statement
+
+34. What are pipes
+
+35. What is a parameterized pipe
+
+36. Pure and Impure pipe
+
+    Called Only when there is a change in the value that is the passed to the pipe
+    Impure pipe, called on every change detection regardless of whether the value is or changed or not
+
+37. what is RXJS
+
+38. What is Event
+
+39. Promises and Observables
+
+40. How custom elements work in angular
+
+41. What are router events
+
+42. AOT Advantages
