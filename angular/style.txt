@@ -1,4 +1,4 @@
-1. Shadow Dom (Css View Encapsulation)
+Angular Css View Encapsulation
     1.1 Emulated (Default)
     1.2 None
     1.3 Shadow Dom
@@ -13,3 +13,4 @@
 
 1.2 None
     When we use None, the scope of the component css will become global rather than private
+ 

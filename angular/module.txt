@@ -1,0 +1,18 @@
+Modules In Angular
+
+
+1. App Module (Main Module) Bootstrap Module
+2. Core Module (Common Service, No Component)
+3. Feature Module (Features (user, employee, products))
+4. Shared Module (Only Components  and no services)
+5. Shell Module (no routing for layout)
+
+
+Modules MetTag
+
+imports // Module
+exports // Components, pipes and directive
+declaration // Component
+providers // Service
+Bootstrap // initial Module
+entryComponetns // Models (Popup's)
